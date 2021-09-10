@@ -4,7 +4,7 @@
 
 A collection of developer agreement types.
 
-The national dataset is in a format consistent with other Digital Land datasets as defined by the [ZZZ schema](https://digital-land.github.io/specification/schema/developer-agreement-type/).
+The national dataset is in a format consistent with other Digital Land datasets as defined by the [developer agreement type schema](https://digital-land.github.io/specification/schema/developer-agreement-type/).
 
 # Collection
 
